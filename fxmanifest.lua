@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_playerstates'
 description 'Manage the state of the player'
-repository 'https://github.com/0error-scripts/aicore_playerstates'
+repository 'https://github.com/aicore-fivem/aicore_playerstates'
 version '0.0.0'
 
 client_scripts {
